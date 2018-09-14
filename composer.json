@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MichaelDouglas\\MService\\" : "/"
+            "MichaelDouglas\\MService\\" : "/src"
         }
     }
 }
