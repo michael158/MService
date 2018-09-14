@@ -1,0 +1,14 @@
+{
+    "name": "michaeldouglas/mservice",
+    "description": "Services abstraction for Laravel Framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Douglas",
+            "email": "michael.dsa41@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
